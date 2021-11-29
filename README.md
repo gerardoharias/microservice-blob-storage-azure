@@ -1,0 +1,1 @@
+# microservice-blob-storage-azure
